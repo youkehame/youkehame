@@ -1,11 +1,23 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pixel Kitty GIF</title>
-</head>
-<body>
-    <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" alt="Pixel Kitty GIF">
-
 ### Hi there 👋
+Меня зовут Костя! Я люблю программирование и котиков! 🐱
+
+## Мои навыки
+
+- имею небольшой начальный опыт в Go
+- C#
+- SQL
+- Взаимодействовал с Docker, PostgreSQL
+- Немного знаю о сетевом взаимодействии (TCP/IP, UDP). Владею REST API, gRPC.
+
+
+
+## Связаться со мной
+
+- [Email](kostya.gromov.2000@inbox.ru)
+- VK.(@kostehhh)
+- Telegram.(@kostehhh)
+  
+
+
+
 
