@@ -5,7 +5,7 @@
    
 </head>
 <body>
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Kitty GIF">
+    <img src=<div class="tenor-gif-embed" data-postid="13519427319579794304" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/catkiss-cat-kiss-smooch-i-love-you-gif-13519427319579794304">Catkiss Kiss Sticker</a>from <a href="https://tenor.com/search/catkiss-stickers">Catkiss Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 </body>
 </html>
 
