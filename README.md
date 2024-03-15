@@ -1,4 +1,4 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f- /></a></h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <
 Меня зовут Костя! Я люблю программирование, компьютерные игры и котиков! 🐱
 
 
