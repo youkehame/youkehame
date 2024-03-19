@@ -17,6 +17,9 @@
 - [Email](kostya.gromov.2000@inbox.ru)
 - VK.(@kostehhh)
 - Telegram.(@kostehhh)
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJrY3B3bXhyYjFuOHI0Z2NsOWVicGVtYXM2ZHdydmRoNTB2eDZycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" width="210"/>
   
 
 
