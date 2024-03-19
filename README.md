@@ -14,7 +14,7 @@
 ## Связаться со мной
 
 - [Email](kostya.gromov.2000@inbox.ru)
-- VK.(@kostehhh)
+- VK.(https://vk.com/kostehhh)
 - Telegram.(https://t.me/kostehhh)
 
 
